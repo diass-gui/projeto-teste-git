@@ -1,0 +1,11 @@
+body {
+    display: grid;
+    height: 100vh;
+    place-items: center;
+}
+.box {
+    outline: 5px solid red;
+}
+img {
+    transform: translateX(250px);
+}

@@ -1,4 +1,5 @@
 digite um email
 digite uma senha
+digite sua idade
 digite um nome de usuario
 clique em enviar
